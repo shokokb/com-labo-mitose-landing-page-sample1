@@ -37,8 +37,18 @@ a img:hover {
 	font-weight: 700;
 	letter-spacing: 3px;
 }
+.contact {
+    margin-left:auto;
+    color: #666;
+}
+.tel {
+    text-align: right;
+    display: inline-block;
+}
 .snsbox {
-	margin-left: auto;
+    text-align: right;
+    display: inline-block;
+	/*margin-left: auto;*/
 	font-size: 3.0rem;
 	padding: 1rem 0 0 0;
 }
